@@ -3,7 +3,7 @@ Brute force your way to salvation...
 
 ![photo of all gods](https://i.ibb.co/hs0zP62/DALL-E-2024-04-08-19-41-10-A-majestic-transcendent-figure-that-embodies-elements-from-various-religi.webp)
 
-Python script that generates a unique prayer for every possible combination of characters up to a specified length in various languages.
+Python script that generates a unique prayer for every possible combination of characters (ie "gods") up to a specified length in various languages.
 
 ## Features
 
