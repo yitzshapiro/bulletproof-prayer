@@ -21,18 +21,18 @@ python pray.py --language english
 Replace english with any of the supported languages to generate prayers in that language.
 
 ### Supported Languages
-english
-french
-spanish
-italian
-russian
-arabic
-hebrew
-german
-greek
-japanese_hiragana
-korean_hangul
-Note: The chinese option is included as a placeholder, given the logographic nature of the Chinese writing system, which does not adapt well to this script's concept.
+ - english
+ - french
+ - spanish
+ - italian
+ - russian
+ - arabic
+ - hebrew
+ - german
+ - greek
+ - japanese
+ - korean
+
 
 
 *(not guaranteed)
