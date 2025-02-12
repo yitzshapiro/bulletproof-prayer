@@ -16,7 +16,7 @@ Run the script from the command line, specifying the language for which you wish
 
 ```bash
 python pray.py --language english
-```
+``` 
 
 Replace english with any of the supported languages to generate prayers in that language.
 
